@@ -11,9 +11,14 @@ I am a software engineer passionate about all that is called 'improving the worl
 <a href="https://www.linkedin.com/in/franck-sefu-884705254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
 [![Twitter: Franck sefu](https://img.shields.io/twitter/follow/franck_sefu?style=social)](https://twitter.com/franck_sefu)<br>
 [![GitHub: Franck sefu](https://img.shields.io/github/followers/francksefu?label=franck_sefu&style=social)](https://github.com/francksefu)<br>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francksefu1998.com)](mailto:francksefu1998.com@gmail.com)
 
 
+<!--
+- 👀 I’m interested by find the way to help others and make life eazy for people, i think it possible by coding
+- 🌱I’m currently learning news about many language of prommation (javaScript, HTML5, Bootstrap,...)
+- 💞️I’m looking to collaborate on project use javaScrip, HTML5, PHP, JQuery, Bootstrap
+- 📫How to reach me at my address email francksefu1998@gmail.com
+-->
 <!--
 francksefu/francksefu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
