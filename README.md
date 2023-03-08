@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Franck Sefu
+-<h1> 👋 Hi, I’m Franck Sefu</h1>
 <img src='franck.png' alt='me'>
 <br>👀 Remote Full-Stack web developper ready for adventure
 <br>
@@ -7,10 +7,9 @@ I am a software engineer passionate about all that is called 'improving the worl
 <br>
 ### Contact me 📫 :
 
-[![Linkedin: Franck sefu](https://img.shields.io/badge/-Mohitp98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/franck-sefu-884705254/)
-
-[![Twitter: Franck sefu](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/franck_sefu)
-[![GitHub: Franck sefu](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/francksefu)
+[![Linkedin: Franck sefu](https://img.shields.io/badge/-franck-sefu-884705254-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/franck-sefu-884705254/)<br>
+[![Twitter: Franck sefu](https://img.shields.io/twitter/follow/franck_sefu?style=social)](https://twitter.com/franck_sefu)<br>
+[![GitHub: Franck sefu](https://img.shields.io/github/followers/francksefu?label=Mohitp98&style=social)](https://github.com/francksefu)<br>
 
 <!--
 - 👀 I’m interested by find the way to help others and make life eazy for people, i think it possible by coding
