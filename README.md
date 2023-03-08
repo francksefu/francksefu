@@ -14,7 +14,7 @@ I am a software engineer passionate about all that is called 'improving the worl
 
 <a href="https://github.com/francksefu" target="_blank"><img src="https://img.shields.io/github/followers/francksefu?label=franck_sefu&style=social" alt="Tweeter"></a><br>
 
-
+![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=francksefu&show_icons=true)
 <!--[![Twitter: Franck sefu](https://img.shields.io/twitter/follow/franck_sefu?style=social)]()<br>
 [![GitHub: Franck sefu](https://img.shields.io/github/followers/francksefu?label=franck_sefu&style=social)]()<br>-->
 
