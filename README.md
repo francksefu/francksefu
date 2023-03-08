@@ -6,6 +6,7 @@ I am a software engineer passionate about all that is called 'improving the worl
 💞️Usually I program with JavaScript, Bootstrap, JQuery, Jest, PHP, HTML/CSS but note that I continue to improve my knowledge 🌱 of React, Ruby on Rails, Node.js and all the new technologies that I continue to learn at Microverse
 <br><br>
 ### Contact me :
+<br>
 📫
 <br>
 <a href="https://www.linkedin.com/in/franck-sefu-884705254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
