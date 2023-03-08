@@ -5,7 +5,7 @@
 I am a software engineer passionate about all that is called 'improving the world through coding'.<br>
 💞️Usually I program with JavaScript, Bootstrap, JQuery, Jest, PHP, HTML/CSS but note that I continue to improve my knowledge 🌱 of React, Ruby on Rails, Node.js and all the new technologies that I continue to learn at Microverse
 <br><br>
-### Contact me :
+<h2 style='color:blue;'> Contact me :</h2>
 <br>
 📫
 <br>
