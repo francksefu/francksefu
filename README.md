@@ -9,8 +9,13 @@ I am a software engineer passionate about all that is called 'improving the worl
 📫
 <br>
 <a href="https://www.linkedin.com/in/franck-sefu-884705254/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
-[![Twitter: Franck sefu](https://img.shields.io/twitter/follow/franck_sefu?style=social)](https://twitter.com/franck_sefu)<br>
-[![GitHub: Franck sefu](https://img.shields.io/github/followers/francksefu?label=franck_sefu&style=social)](https://github.com/francksefu)<br>
+<a href="https://twitter.com/franck_sefu" target="_blank"><img src="https://img.shields.io/twitter/follow/franck_sefu?style=social" alt="Tweeter"></a><br>
+
+<a href="https://github.com/francksefu" target="_blank"><img src="https://img.shields.io/github/followers/francksefu?label=franck_sefu&style=social" alt="Tweeter"></a><br>
+
+
+<!--[![Twitter: Franck sefu](https://img.shields.io/twitter/follow/franck_sefu?style=social)]()<br>
+[![GitHub: Franck sefu](https://img.shields.io/github/followers/francksefu?label=franck_sefu&style=social)]()<br>-->
 
 
 <!--
