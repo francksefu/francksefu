@@ -3,7 +3,10 @@
 <br>👀 Remote Full-Stack web developper ready for adventure <h2>😊</h2>
 <br>
 I am a software engineer passionate about all that is called 'improving the world through coding'.<br>
-💞️Usually I program with JavaScript, Bootstrap, JQuery, Jest, PHP, HTML/CSS but note that I continue to improve my knowledge 🌱 of React, Ruby on Rails, Node.js and all the new technologies that I continue to learn at Microverse
+💞️Usually I program with <br>
+<h3>FrontEnd : JavaScript, React, Next.js</h3>
+<h3>BackEnd : Node (express), PHP, Ruby, Ruby on Rails</h3>
+but note that I continue to improve my knowledge of AI to be able to implement it properly in project
 <br><br>
 <h2 style='color:blue;'> Contact me :</h2>
 <br>
